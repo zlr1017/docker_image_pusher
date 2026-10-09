@@ -1,1 +1,1 @@
-php:8-apache
+cadvisor:v0.55.1
